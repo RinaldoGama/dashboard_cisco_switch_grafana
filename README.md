@@ -5,12 +5,12 @@
 ![Dashboard Cisco](imagens/2.png)
 
 Monitoramento:
-CPU
-Memória RAM
-ICMP - Ping, Time, Loss
-Portas Ativas e Desativadas
-Informações
-Bandwith Upload
+CPU -
+Memória RAM -
+ICMP (Ping, Time, Loss) -
+Portas Ativas e Desativadas -
+Informações -
+Bandwith Upload -
 Bandwith Download
 
 ![Dashboard Cisco](imagens/1.png)
