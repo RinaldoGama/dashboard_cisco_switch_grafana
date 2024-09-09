@@ -2,9 +2,9 @@
 
 **Dashboard Cisco - Grafana**
 
-![Dashboard Cisco](Imagens/2.png)
+![Dashboard Cisco](imagens/2.png)
 
-![Dashboard Cisco](Imagens/1.png)
+![Dashboard Cisco](imagens/1.png)
 
 *Dashboard construída com foco em métricas Switchs Cisco.*
 
